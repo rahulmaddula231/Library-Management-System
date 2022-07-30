@@ -3,7 +3,8 @@ Library management system is all about organizing, managing the library and libr
 
 # Software Used:
 Netbeans IDE
-Wamp Server
+
+Java Swing Components
 
 # Project Phases:
 This Project consists of 3 phases:
